@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "758631778261",
+    "firebase_url": "https://fir-lessons-94a15-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-lessons-94a15",
+    "storage_bucket": "fir-lessons-94a15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758631778261:android:1cf59bfa952937b7f0df5c",
+        "android_client_info": {
+          "package_name": "com.example.firebaselesson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758631778261-se1ru606jt8dir84q6289bdt0rcjvlbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDwWVCDpeEoHFpnm2y1eBfVHQRa9gBWTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758631778261-se1ru606jt8dir84q6289bdt0rcjvlbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
